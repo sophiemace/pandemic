@@ -2,7 +2,7 @@
 layout: category-group
 title: Help
 category-group: true
-summary: Find what you need help with here!
+summary: Find what you need help with here test!
 id: help
 ---
 
